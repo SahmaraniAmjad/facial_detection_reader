@@ -25,6 +25,8 @@ Before running the code, make sure you have the following libraries installed:
 ```sh
 pip install opencv-python dlib PyMuPDF PyQt5 numpy
 
-## You can also try the other files 
-eye_scrolling.py
-hand_scrolling.python
+```
+
+## You can also try the other projects 
+- eye_scrolling.py
+- hand_scrolling.python
