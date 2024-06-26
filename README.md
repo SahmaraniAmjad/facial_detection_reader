@@ -1,4 +1,4 @@
-"""
+
 # PDF Reader with Gesture Control
 
 This application is a PDF reader with gesture control functionality. It uses facial landmarks detection to scroll through a PDF document based on the user's face movements.
@@ -20,7 +20,7 @@ Before running the code, make sure you have the following libraries installed:
 - PyQt5
 - NumPy
 
-You can install these libraries using pip:
+## You can install these libraries using pip:
 
 ```sh
 pip install opencv-python dlib PyMuPDF PyQt5 numpy
